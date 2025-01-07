@@ -169,7 +169,7 @@ class TestCalVerFunction:
             param("{YY}", "2", id="{YY}"),
             param("{0Y}", "02", id="{0Y}"),
             param("{MMM}", "May", id="{MMM}"),
-            param("{M62}", "5", id="{M62}"),
+            param("{M16}", "5", id="{M62}"),
             param("{MM}", "5", id="{MM}"),
             param("{0M}", "05", id="{0M}"),
             param("{D62}", "1", id="{D62}"),
